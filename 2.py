@@ -1,3 +1,2 @@
-print("different-one")
 print("Hello World")
-print("second-modified")
+print("\nsecond-different")
